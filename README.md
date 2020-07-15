@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+- 🌱 I’m currently learning Ruby and have gotten pretty good with it
+- I am tutoring anyone that wants to learn how to code
 
 <!--
 **OkiStuff/OkiStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
