@@ -7,6 +7,12 @@
 - ⚡ Fun fact: Started Programming at 6 years old
 - 📫 You can reach me through [Discord](https://discord.com) (cookie monster#8605) or email me at okistuffyt@gmail.com
 
+Code Editor of choice: [Visual Studio Cpde](https://code.visualstudio.com)
+Language of choice: C programming language
+Compiler of choice: GCC/G++ with MinGW
+My favorite Project: Sand Programming Language
+
+
 <!--
 **OkiStuff/OkiStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
