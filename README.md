@@ -1,6 +1,6 @@
 ### Hello! 👋
 - 🎮 Game Engine Dev
-- 🌴 Learning SLD2
+- 🌴 Learning SDL2
 - 💬 Ask me about C/C++ questions
 - 🔭 I'm currently working on the Knightmare Engine (Name not Final)
 - 😄 Pronouns: He/Him
