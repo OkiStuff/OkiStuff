@@ -1,6 +1,11 @@
 ### Hello! 👋
-- 🌱 I’m currently learning Ruby and have gotten pretty good with it
-- I am tutoring anyone that wants to learn how to code
+- 🎮 Game Engine Dev
+- 🌴 Learning SLD2
+- 💬 Ask me about C/C++ questions
+- 🔭 I'm currently working on the Knightmare Engine (Name not Final)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Started Programming at 6 years old
+- 📫 You can reach me through [Discord](https://discord.com) (cookie monster#8605) or email me at okistuffyt@gmail.com
 
 <!--
 **OkiStuff/OkiStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
