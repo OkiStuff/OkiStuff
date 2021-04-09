@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on the Knightmare Engine (Name not Final)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Started Programming at 6 years old
-- 📫 You can reach me through [Discord](https://discord.com) (cookie monster#8605) or email me at okistuffyt@gmail.com
+- 📫 You can reach me through [Discord](https://discord.com) (butter dog#8605) or email me at okistuffyt@gmail.com
 
 Code Editor of choice: [Visual Studio Code](https://code.visualstudio.com)
 
