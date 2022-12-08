@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Game Engines/Frameworks
 - 🤔 I’m looking for help with Muzzle
 - 💬 Ask me about C Questions
-- 📫 How to reach me: https://frankiee.me/contact
+- 📫 How to reach me: @piko_studios on twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Born in Rome, Italy.
 
