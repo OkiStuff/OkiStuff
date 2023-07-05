@@ -5,9 +5,9 @@
 - 🤔 I’m looking for help with Muzzle
 - 💬 Ask me about C Questions
 - 📫 How to reach me: @piko_studios on twitter
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Born in Rome, Italy.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6MX8G1)
 <!--
 **OkiStuff/OkiStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
