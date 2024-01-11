@@ -6,6 +6,7 @@
 - 💬 Ask me about C Questions
 - 📫 How to reach me: @piko_studios on twitter
 - ⚡ Fun fact: Born in Rome, Italy.
+- 🦅 Laziale
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6MX8G1)
 <!--
