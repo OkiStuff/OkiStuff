@@ -1,12 +1,5 @@
 ### Hello! 👋
-- 🔭 I’m currently working on Muzzle
-- 🌱 I’m currently learning OpenGL
-- 👯 I’m looking to collaborate on Game Engines/Frameworks
-- 🤔 I’m looking for help with Muzzle
-- 💬 Ask me about C Questions
-- 📫 How to reach me: @piko_studios on twitter
-- ⚡ Fun fact: Born in Rome, Italy.
-- 🦅 Laziale
+working on muzzle!!!!!!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6MX8G1)
 <!--
